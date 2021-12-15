@@ -1,7 +1,7 @@
 {
   "name": "m4-w4-d1-demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Mongoose",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,13 @@
   "dependencies": {
     "mongodb": "^3.6.6",
     "mongoose": "^5.12.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zq170829/m4-w4-d1-exercise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zq170829/m4-w4-d1-exercise/issues"
+  },
+  "homepage": "https://github.com/zq170829/m4-w4-d1-exercise#readme"
 }
